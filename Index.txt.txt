@@ -1,1 +1,1 @@
-My first Git repository version 1
+My first Git repository version 2
